@@ -776,6 +776,12 @@ e_no, 	e_name, 	dept_no, e_salary
 103,		王嘉琦,			20,			4500
 ```
 
+## 6.7 使用正则查询
+
+<font color=red>todo</font>
+
+
+
 # 10. Mac操作pg库
 
 ## 10.1 安装
