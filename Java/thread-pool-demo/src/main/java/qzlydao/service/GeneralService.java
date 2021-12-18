@@ -1,4 +1,4 @@
-package qzlydao;
+package qzlydao.service;
 
 /**
  * @Author: liuqiang

@@ -1,7 +1,9 @@
-package qzlydao;
+package qzlydao.service.impl;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
+import qzlydao.service.AsyncService;
+import qzlydao.service.GeneralService;
 
 /**
  * @Author: liuqiang
@@ -9,7 +11,7 @@ import org.springframework.stereotype.Service;
  * @Desc:
  */
 @Service
-public class GeneralServiceImpl implements GeneralService{
+public class GeneralServiceImpl implements GeneralService {
 
     @Autowired
     private AsyncService asyncService;

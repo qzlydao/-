@@ -28,3 +28,15 @@
 
 
 
+# 6. 
+
+```java
+public static void main(String[] args) {
+		Map<String, Float> map = new HashMap<>();
+    map.put("1111", 0.2f);
+        
+    // 不会类型检查，直接返回null
+    System.out.println(map.get(1111));
+}
+```
+

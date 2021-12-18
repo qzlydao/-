@@ -1,4 +1,4 @@
-package qzlydao;
+package qzlydao.common;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
