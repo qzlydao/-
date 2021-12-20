@@ -1,4 +1,8 @@
 *.iml
-.idea
+.idea/
+.gradle/
+**/.idea/
+**/.gradle/
+**/out/
 **/target
 **/out
